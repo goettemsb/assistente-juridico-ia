@@ -21,6 +21,20 @@ O assistente automatiza tarefas que tradicionalmente levam horas de trabalho man
 -  Geração automática de resumos executivos
 - Sistema de perguntas e respostas sobre documentos
 
+## Screenshots
+
+### Tela Inicial
+![Tela Inicial](screenshots/tela-inicial.png)
+
+### Analise de Documento
+![Analise de Documento](screenshots/analise-documento.png)
+
+### Dados Extraidos
+![Dados Extraidos](screenshots/dados-extraidos.png)
+
+### Protocolos Carregados
+![Protocolos Carregados](screenshots/protocolos-carregados.png)
+
 ## Funcionalidades
 
 ### Processamento de PDFs
